@@ -3,5 +3,5 @@
 <br>This project demonstrates fundamental file handling techniques using binary files (.dat) to manage persistent data for bank accounts, including options for deposit, withdrawal, balance inquiry, updates, and deletion.
 Features Highlights
 <br>CRUD Operations: Create, Read (single/all), Update, Delete records.
-<br>File I/O: Persistent storage.
-Core Logic: Implements basic transaction logic (deposit/withdraw with balance check).<p>
+<br>File I/O: Persistent storageBank_Account.dat.
+<br>Core Logic: Implements basic transaction logic (deposit/withdraw with balance check).<p>
